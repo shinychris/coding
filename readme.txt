@@ -7,3 +7,5 @@
 第二步，使用命令git commit，完成。
 
 git status
+
+测试远程githubb
